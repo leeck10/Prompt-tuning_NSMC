@@ -6,9 +6,7 @@
 ## Running the code
 Install dependecies
 
-      ```pip install -r requirements.txt
-      ```
+      pip install -r requirements.txt
 Model training using prompt-tuning
 
-      ```./run_tuning.sh
-      ```
+     ./run_tuning.sh
