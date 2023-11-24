@@ -8,7 +8,6 @@ Install dependecies
 
       ```pip install -r requirements.txt
       ```
-
 Model training using prompt-tuning
 
       ```./run_tuning.sh
